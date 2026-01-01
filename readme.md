@@ -28,6 +28,3 @@ This project demonstrates basic DOM manipulation, event handling, and UI design 
 - **JavaScript** – Calculator logic and interactions  
 
 ---
-
-## 📁 Project Structure
-
